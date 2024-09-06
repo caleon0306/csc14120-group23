@@ -10,5 +10,5 @@ source bin/activate
 
 Ensure the requierments are installed using:
 ```
-pip3 install -r ~csci4120-nogroup-leonc22-main/HW1/requirements.txt
+pip3 install -r csci4120-nogroup-leonc22-main/HW1/requirements.txt
 ```
