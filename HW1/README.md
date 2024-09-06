@@ -1,7 +1,7 @@
 This repo is for CSCI 4120.
 
 ## Quick Start
-Extract The Directory into your virtual enviroment are
+Extract this Directory into your virtual enviroment area
 
 Start the Virtual Enviroment:
 ```
