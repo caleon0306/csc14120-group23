@@ -1,3 +1,6 @@
+The current setup works is you extract from the main repository as a zip and extract
+it to the virtual env
+
 ## Quick Start
 Extract this Directory into your virtual enviroment area
 
