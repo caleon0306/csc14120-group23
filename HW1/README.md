@@ -11,6 +11,7 @@ Ensure the requierments are installed using:
 pip3 install -r csci4120-nogroup-leonc22-main/HW1/requirements.txt
 ```
 Start Jupyter notebook:
+(This does not bring me to the right page, below are two links for quick navigation)
 ```
 jupyter notebook
 ```
