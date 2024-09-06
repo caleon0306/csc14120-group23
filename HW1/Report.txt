@@ -1,7 +1,13 @@
 Based on running the tests a few times it appears that using no more than 7
 for the K value works best. After 7 the accuracy consistently drops. 
 The reason I believe the accuracy drops after 7 is because of the randomization 
-of test vs sample. With each test getting random samples it starts to have more 
-of an impact on the randomization, rather that the weight. With a large enough 
-K value the neighbors could start consistently be flowers in the wrong group 
-because there are more of them in the sample.
+of test vs sample. With each test getting random samples the results appear to be
+decided by what is included in the sample, and not direct neighbors. If there is a
+sample with a lot of one flower then a k of 20 will make it easier for
+a flower on the edge of two groups to get put into the wrong group. If a flower
+belongs to group A and there are not many in the sample there will be less
+samples to compare it to, whereas group B has a lot in the current sample. This 
+means the prediction will be based on what flower is randomly put into
+the sample.
+
+I generally see the highest accuracy around 6-7, but it can vary.
