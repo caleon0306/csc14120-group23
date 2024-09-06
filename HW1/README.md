@@ -1,5 +1,3 @@
-This repo is for CSCI 4120.
-
 ## Quick Start
 Extract this Directory into your virtual enviroment area
 
@@ -17,7 +15,7 @@ Start Jupyter notebook:
 jupyter notebook
 ```
 
-Browser Links:
+**Browser Links:**
 
 Jupyter tree:
 ```
