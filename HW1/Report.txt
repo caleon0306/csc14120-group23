@@ -1,1 +1,7 @@
-Based on running the tests a few times it appears that using no more than 7 for the K value works best. After 7 the accuracy consistently drops. The reason I believe the accuracy drops after 7 is because of the randomization of test vs sample. With each test getting random samples it starts to have more of an impact on the randomization, rather that the weight. With a large enough K value the neighbors could start consistently be flowers in the wrong group because there are more of them in the sample.
+Based on running the tests a few times it appears that using no more than 7
+for the K value works best. After 7 the accuracy consistently drops. 
+The reason I believe the accuracy drops after 7 is because of the randomization 
+of test vs sample. With each test getting random samples it starts to have more 
+of an impact on the randomization, rather that the weight. With a large enough 
+K value the neighbors could start consistently be flowers in the wrong group 
+because there are more of them in the sample.
