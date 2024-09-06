@@ -16,3 +16,8 @@ Start Jupyter notebook:
 ```
 jupyter notebook
 ```
+
+Jupyter tree:
+```
+http://127.0.0.1:8888/tree
+```
