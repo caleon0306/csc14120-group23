@@ -21,3 +21,8 @@ Jupyter tree:
 ```
 http://127.0.0.1:8888/tree
 ```
+
+Code:
+```
+http://127.0.0.1:8888/notebooks/csci4120-nogroup-leonc22-main/HW1/KNN/knn.ipynb
+```
