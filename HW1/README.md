@@ -27,3 +27,7 @@ Code:
 ```
 http://127.0.0.1:8888/notebooks/csci4120-nogroup-leonc22-main/HW1/KNN/knn.ipynb
 ```
+
+**Code  Information**
+To edit the amount of times the k value is tested change the variable testEachK.
+This variable is in the last cell near the top of main().
