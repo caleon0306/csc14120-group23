@@ -33,7 +33,3 @@ Code:
 ```
 http://127.0.0.1:8888/notebooks/HW2/HW_elbow_kmeans/HW2%20Notebook.ipynb
 ```
-
-**Code  Information**
-To edit the amount of times the k value is tested change the variable testEachK.
-This variable is in the last cell near the top of main().
