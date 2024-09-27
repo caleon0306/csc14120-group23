@@ -1,8 +1,8 @@
 Connell Leon
 leonc22@students.ecu.edu
 
-The current setup works is you extract from the main repository as a zip and extract
-it to the virtual env
+The current setup works if you extract from the main repository as a zip and extract
+it to the are you will use the virtual env
 
 ## Quick Start
 Extract this Directory into your virtual enviroment area
