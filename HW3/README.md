@@ -1,6 +1,7 @@
 This repo is for CSCI 4120.
 
 **Name:** Connell Leon
+
 **Email:** leonc22@students.ecu.edu
 
 ## Quick Start
