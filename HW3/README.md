@@ -1,5 +1,8 @@
 This repo is for CSCI 4120.
 
+**Name:** Connell Leon
+**Email:** leonc22@students.ecu.edu
+
 ## Quick Start
 
 Download the HW3 file into your virtual enviroment location
