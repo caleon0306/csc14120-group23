@@ -22,3 +22,6 @@ jupyter-notebook
 Jupyter Nootbook takes you to an incorrect link.
 Link to main:
 http://127.0.0.1:8888/tree?token=0e04cc5792ae050d4f076cd957b6085668e651d21c5051ab
+
+Link to HW3:
+http://127.0.0.1:8888/notebooks/HW3/HW_linear_regression/HW_1.ipynb
