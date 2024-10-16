@@ -1,9 +1,10 @@
 This repo is for CSCI 4120.
 
 ## Quick Start
+
 Download the HW3 file into your virtual enviroment location
 
-You need to activate the virtual environment when you want to use it:
+Activate the virtual environment:
 ```
 source python_venv/bin/activate
 ```
