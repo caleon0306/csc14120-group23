@@ -28,3 +28,5 @@ http://127.0.0.1:8888/tree/csci4120-nogroup-leonc22
 
 Link to HW3:
 http://127.0.0.1:8888/notebooks/csci4120-nogroup-leonc22/HW3/HW_linear_regression/HW_1.ipynb
+
+![Excersice 1 Picture](assg3Pics/exc1.png)
