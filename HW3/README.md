@@ -1,15 +1,7 @@
 This repo is for CSCI 4120.
 
 ## Quick Start
-First, we need to install a Python 3 virtual environment with:
-```
-sudo apt-get install python3-venv
-```
-
-Create a virtual environment:
-```
-python3 -m venv python_venv
-```
+Download the HW3 file into your virtual enviroment location
 
 You need to activate the virtual environment when you want to use it:
 ```
