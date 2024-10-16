@@ -19,7 +19,7 @@ pip3 install -r csci4120-nogroup-leonc22/HW3/requirements.txt
 
 Start Jupyter Notebook:
 ```
-jupyter-notebook
+jupyter notebook
 ```
 
 Jupyter Nootbook takes you to an incorrect link.
