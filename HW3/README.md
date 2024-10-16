@@ -14,7 +14,7 @@ source bin/activate
 
 To fufil all the requirements for the python server, you need to run:
 ```
-pip3 install -r csci4120-nogroup-leonc22-main/HW3/requirements.txt
+pip3 install -r csci4120-nogroup-leonc22/HW3/requirements.txt
 ```
 
 Start Jupyter Notebook:
