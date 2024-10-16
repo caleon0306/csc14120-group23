@@ -6,7 +6,7 @@ Download the HW3 file into your virtual enviroment location
 
 Activate the virtual environment:
 ```
-source python_venv/bin/activate
+source bin/activate
 ```
 
 To fufil all the requirements for the python server, you need to run:
