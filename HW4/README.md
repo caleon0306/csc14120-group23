@@ -26,7 +26,8 @@ Start Jupyter Notebook:
 jupyter notebook
 ```
 
-Jupyter Notebook takes you to an incorrect link.
+**Jupyter Notebook takes you to an incorrect link.**
+
 Link to main:
 http://127.0.0.1:8888/tree/csci4120-nogroup-leonc22
 
