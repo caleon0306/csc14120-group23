@@ -6,7 +6,7 @@ This repo is for CSCI 4120.
 
 ## Quick Start
 
-Download the HW3 file into your virtual enviroment location
+Download the HW4 file into your virtual enviroment location
 ```
 git clone https://github.com/caleon0306/csci4120-nogroup-leonc22.git
 ```
