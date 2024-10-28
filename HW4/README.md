@@ -31,4 +31,4 @@ Link to main:
 http://127.0.0.1:8888/tree/csci4120-nogroup-leonc22
 
 Link to HW4:
-http://127.0.0.1:8888/notebooks/csci4120-nogroup-leonc22/HW3/HW_linear_regression/HW_1.ipynb
+http://127.0.0.1:8888/notebooks/csci4120-nogroup-leonc22/HW4/HW4.ipynb
