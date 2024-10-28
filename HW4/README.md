@@ -18,7 +18,7 @@ source bin/activate
 
 Install Requirements:
 ```
-pip3 install -r csci4120-nogroup-leonc22/HW3/requirements.txt
+pip3 install -r csci4120-nogroup-leonc22/HW4/requirements.txt
 ```
 
 Start Jupyter Notebook:
@@ -30,11 +30,5 @@ Jupyter Notebook takes you to an incorrect link.
 Link to main:
 http://127.0.0.1:8888/tree/csci4120-nogroup-leonc22
 
-Link to HW3:
+Link to HW4:
 http://127.0.0.1:8888/notebooks/csci4120-nogroup-leonc22/HW3/HW_linear_regression/HW_1.ipynb
-
-**Exercise 1 Picture**
-![Excersice 1 Picture](assg3Pics/exc1.png)
-
-**Exercise 2 Picture**
-![Excersice 2 Picture](assg3Pics/exc2.png)
