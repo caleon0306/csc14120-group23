@@ -31,5 +31,5 @@ jupyter notebook
 Link to main:
 http://127.0.0.1:8888/tree/csci4120-nogroup-leonc22
 
-Link to HW5:
-http://127.0.0.1:8888/notebooks/csci4120-nogroup-leonc22/HW5/Decision_tree/HW6.ipynb
+Link to HW6:
+http://127.0.0.1:8888/notebooks/csci4120-nogroup-leonc22/HW6/SVM/HW5.ipynb
