@@ -33,3 +33,6 @@ http://127.0.0.1:8888/tree/csci4120-nogroup-leonc22
 
 Link to HW6:
 http://127.0.0.1:8888/notebooks/csci4120-nogroup-leonc22/HW6/SVM/HW5.ipynb
+
+**Results**
+The linear and polynomial kernels scored extremely well, in  the upper 90%. the radial kernel scored badly in comparison to the other 2 kernels.
