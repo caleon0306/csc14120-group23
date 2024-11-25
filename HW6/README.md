@@ -18,7 +18,7 @@ source bin/activate
 
 Install Requirements:
 ```
-pip3 install -r csci4120-nogroup-leonc22/HW5/requirements.txt
+pip3 install -r csci4120-nogroup-leonc22/HW6/requirements.txt
 ```
 
 Start Jupyter Notebook:
